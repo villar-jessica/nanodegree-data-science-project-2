@@ -427,4 +427,4 @@ async def update_data(r):
         return RedirectResponse(f"/team/{id}", status_code=303)
 
 serve()
- 
+  
